@@ -1,10 +1,11 @@
 ### Hello, folks! 👋
 
-My name is Arvind Singharpuria and I'm a Computer Science student. I am currently working as Backend/Devops Engineer Intern at Fountane Inc. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Arvind Singharpuria and I'm a Computer Science student. I am currently working as Backend/Devops Engineer Intern at Fountane Inc. 
 
 You can find me here :
-[![Twitter Followers](https://img.shields.io/badge/Twitter-13k-blue?style=social&logo=twitter)](https://twitter.com/Arvind_0602)
-[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/arvind-singharpuria-a88686202)
+<br>
+[![Twitter Followers](https://img.shields.io/badge/Twitter-1.3k-blue?style=social&logo=twitter)](https://twitter.com/Arvind_0602)
+[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-2k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/arvind-singharpuria-a88686202)
 
 ![Arvind's github stats](https://github-readme-stats.vercel.app/api?username=Arvind644&show_icons=true&count_private=true&theme=radical)
 ![Arvind's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind644&theme=radical&&hide=Jupyter%20Notebook)
