@@ -1,6 +1,6 @@
 ### Hello, folks! 👋
 
-My name is Arvind Singharpuria and I'm a Computer Science student. I am currently working as Backend/Devops Engineer Intern at Fountane Inc. 
+My name is Arvind Singharpuria and I'm a Computer Science student. I am currently working as Backend/Devops Engineer at Fountane Inc. 
 
 You can find me here :
 <br>
