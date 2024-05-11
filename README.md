@@ -1,6 +1,6 @@
 ### Hello, folks! 👋
 
-My name is Arvind Singharpuria and I'm a Computer Science student. I am currently working as Software Devolopment Engineer at Fountane Inc. 
+I'm Arvind Singharpuria and I'm a Computer Science student. I am currently working as Software Devolopment Engineer at Fountane Inc. 
 
 You can find me here :
 <br>
