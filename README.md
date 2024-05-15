@@ -7,7 +7,7 @@ You can find me here :
 [![Twitter Followers](https://img.shields.io/badge/Twitter-1.6k-blue?style=social&logo=twitter)](https://twitter.com/Arvind_0602)
 
 ![Arvind's github stats](https://github-readme-stats.vercel.app/api?username=Arvind644&show_icons=true&count_private=true&theme=radical)
-![Arvind's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind644&theme=radical&&hide=Jupyter%20Notebook,html,css)
+![Arvind's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind644&theme=radical&&hide=Jupyter%20Notebook,html,css&langs_count=8)
 
 <p align="center">
 
