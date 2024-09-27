@@ -5,6 +5,7 @@ I'm Arvind Singharpuria. I'm currently working as Full Stack Developer at Founta
 You can find me here :
 <br>
 [![Twitter Followers](https://img.shields.io/badge/Twitter-1.6k-blue?style=social&logo=twitter)](https://twitter.com/Arvind_0602)
+[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-2k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/arvind-singharpuria-a88686202)
 
 ![Arvind's github stats](https://github-readme-stats.vercel.app/api?username=Arvind644&show_icons=true&count_private=true&theme=radical)
 ![Arvind's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind644&theme=radical&&hide=Jupyter%20Notebook,html,css)
