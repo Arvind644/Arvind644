@@ -31,7 +31,5 @@ You can find me here :
 ![Terrafrom](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop)
-![Illustartor](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobe-illustrator)
 </p>
 
