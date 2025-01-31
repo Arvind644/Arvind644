@@ -1,8 +1,9 @@
-### Hello, folks! 👋
+# <em>Hi!</em> I'm Arvind. 👋🏻
 
-I'm Arvind Singharpuria. I'm currently working as Full Stack Developer at Fountane Inc. 
+Hi! My name is Arvind Singharpuria.
 
-You can find me here :
+I'm Founding AI Engineer / Developer Relations at [Build Club](https://www.buildclub.ai/), the training campus for top AI learners, experts, builders.
+
 <br>
 [![Twitter Followers](https://img.shields.io/badge/Twitter-1.6k-blue?style=social&logo=twitter)](https://twitter.com/Arvind_0602)
 [![Linkedin Followers](https://img.shields.io/badge/LinkedIn-2k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/arvind-singharpuria-a88686202)
