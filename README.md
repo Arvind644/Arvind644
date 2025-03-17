@@ -34,3 +34,28 @@ You can find me here [X](https://x.com/Arvind_0602) / [LinkedIn](https://www.lin
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 </p>
 
+<a href="https://github.com/Arvind644">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/Arvind644">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/Arvind644">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/Arvind644">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/Arvind644">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/Arvind644">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/Arvind644">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
