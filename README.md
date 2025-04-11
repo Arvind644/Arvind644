@@ -9,7 +9,7 @@ You can find me here [X](https://x.com/Arvind_0602) / [LinkedIn](https://www.lin
 <br>
 
 ![Arvind's github stats](https://github-readme-stats.vercel.app/api?username=Arvind644&show_icons=true&count_private=true&theme=radical)
-![Arvind's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind644&theme=radical&&hide=Jupyter%20Notebook,html,css)
+![Arvind's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind644&theme=radical&&hide=Jupyter%20Notebook)
 
 <p align="center">
 
