@@ -27,7 +27,6 @@ You can find me here [X](https://x.com/Arvind_0602) / [LinkedIn](https://www.lin
 ![Docker](	https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&labelColor=0F1689)
 ![Terrafrom](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 </p>
 
