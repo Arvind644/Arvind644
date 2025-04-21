@@ -51,6 +51,3 @@ You can find me here [X](https://x.com/Arvind_0602) / [LinkedIn](https://www.lin
 <a href="https://github.com/Arvind644">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
-<a href="https://github.com/Arvind644">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
