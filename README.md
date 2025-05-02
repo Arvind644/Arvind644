@@ -4,6 +4,8 @@ Hi! My name is Arvind Singharpuria.
 
 I'm Founding AI Engineer / Developer Relations at [Build Club](https://www.buildclub.ai/), the training campus for top AI learners, experts, builders.
 
+You’ll often find me live streaming tech content, indie hacking and trying out new web and AI tools.
+
 You can find me here [X](https://x.com/Arvind_0602) / [LinkedIn](https://www.linkedin.com/in/arvind-singharpuria/) / [Website](https://arvind.app) / [Blue Sky](https://bsky.app/profile/arvind06.bsky.social)
 
 <br>
