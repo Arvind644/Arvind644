@@ -28,7 +28,6 @@ You can find me here [X](https://x.com/Arvind_0602) / [LinkedIn](https://www.lin
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&labelColor=0F1689)
 ![Terrafrom](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 </p>
 
 <a href="https://github.com/Arvind644">
