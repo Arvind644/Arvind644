@@ -1,6 +1,6 @@
 # <em>Hi!</em> I'm Arvind. 👋🏻
 
-Hi! My name is Arvind Singharpuria. I am Torc Ambasador.
+Hi! My name is Arvind Singharpuria. I am a Torc Ambasador.
 
 I'm Founding AI Engineer / Developer Relations at [Build Club](https://www.buildclub.ai/), the training campus for top AI learners, experts, builders.
 
