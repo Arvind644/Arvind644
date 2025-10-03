@@ -2,7 +2,7 @@
 
 Hello friends! My name is Arvind Singharpuria. I am a Torc Ambasador.
 
-I'm Founding AI Engineer / Developer Relations at [Build Club](https://www.buildclub.ai/), the training campus for top AI learners, experts, builders.
+Building software is both my passion and my profession. I am a Full Stack software crafter with 3 years of industry experience specialised in building and scaling cloud-native web applications. I have a solid background in producing software with state-of-the-art technologies. I am a big fan of AI tools, with the ultimate goal of creating software that makes customers happy. In addition, I am a contributor and active member of open-source communities. I have demonstrated a strong ability to create developer-focused content that empoweres engineers to write better softawre and grow their careers.
 
 You’ll often find me live streaming, creating tech content, indie hacking and trying out new web and AI tools.
 
