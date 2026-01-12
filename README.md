@@ -4,7 +4,7 @@ Hello friends! My name is Arvind Singharpuria. I am a Torc Ambasador.
 
 Building software is both my passion and my profession. I am a Full Stack software crafter with 3 years of industry experience specialised in building and scaling cloud-native web applications. I have a solid background in producing software with state-of-the-art technologies. I am a big fan of AI tools, with the ultimate goal of creating software that makes customers happy. In addition, I am a contributor and active member of open-source communities. I have demonstrated a strong ability to create developer-focused content that empoweres engineers to write better softawre and grow their careers.
 
-You’ll often find me live streaming, creating tech content, indie hacking and trying out new web and AI tools.
+You’ll often find me live streaming (twitch), creating tech content, indie hacking and trying out new web and AI tools.
 
 You can find me here [X](https://x.com/Arvind_0602) / [LinkedIn](https://www.linkedin.com/in/arvind-singharpuria/) / [Website](https://arvind.app) <!-- / [Blue Sky](https://bsky.app/profile/arvind06.bsky.social) -->
 
