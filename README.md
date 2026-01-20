@@ -1,6 +1,6 @@
 # <em>Hi!</em> I'm Arvind. 👋🏻
 
-Hello friends! My name is Arvind Singharpuria. And I am a Torc Ambasador.
+Hello friends! My name is Arvind Singharpuria. I am a Torc Ambasador.
 
 Building software is both my passion and my profession. I am a Full Stack software crafter with 3 years of industry experience specialized in building and scaling cloud-native web applications. I have a solid background in producing software with state-of-the-art technologies. I am a big fan of AI tools, with the ultimate goal of creating software that makes customers happy. In addition, I am a contributor and active member of open-source communities. I have demonstrated a strong ability to create developer-focused content that empowers engineers to write better software and grow their careers.
 
