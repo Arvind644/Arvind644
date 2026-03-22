@@ -6,7 +6,7 @@ Building software is both my passion and my profession. I am a Full Stack softwa
 
 You’ll often find me live streaming, creating tech content, indie hacking and trying out new web and AI tools.
 
-You can find me here [X](https://x.com/Arvind_0602) / [LinkedIn](https://www.linkedin.com/in/arvind-singharpuria/) / [Website](https://arvind.app) <!-- / [Blue Sky](https://bsky.app/profile/arvind06.bsky.social) -->
+You can find me here [X](https://x.com/Arvind_0602) / [LinkedIn](https://www.linkedin.com/in/arvind-singharpuria/) / [Website](https://arvind.app) / [Blue Sky](https://bsky.app/profile/arvind06.bsky.social)
 
 <br>
 
