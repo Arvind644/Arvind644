@@ -8,7 +8,6 @@ You’ll often find me live streaming, creating tech and AI content, indie hacki
 
 You can find me here [X](https://x.com/Arvind_0602) / [LinkedIn](https://www.linkedin.com/in/arvind-singharpuria/) / [Website](https://arvind.app) <!-- / [Blue Sky](https://bsky.app/profile/arvind06.bsky.social) -->
 
-
 <br>
 
 <!--
